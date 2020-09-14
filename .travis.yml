@@ -5,3 +5,11 @@ node_js:
 - 'lts/*'
 
 cache: npm
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: public
+  repo: julian7454/julian7454.github.io
+  target_branch: master
