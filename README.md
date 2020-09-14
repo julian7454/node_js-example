@@ -35,3 +35,5 @@ If you have any questions, we are in `#travis` on irc.freenode.net, on Twitter [
 Copyright (C) 2012 Travis CI Development Team
 
 Distributed under the MIT License, the same as Node.js.
+
+[![Build Status](https://travis-ci.com/julian7454/node_js-example.svg?branch=master)](https://travis-ci.com/julian7454/node_js-example)
